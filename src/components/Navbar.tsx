@@ -18,7 +18,7 @@ const Navbar: React.FC = () => {
           {/* Logo */}
           <div className="flex items-center space-x-3 cursor-pointer" onClick={() => scrollToSection('hero')}>
             <img 
-              src="/logo.png" 
+              src={`${process.env.PUBLIC_URL}/logo.png`} 
               alt="Siyazama Futhi Logo" 
               className="h-10 w-auto"
             />

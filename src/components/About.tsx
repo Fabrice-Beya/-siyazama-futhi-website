@@ -49,7 +49,7 @@ const About: React.FC = () => {
 
           <div className="relative slide-in-right">
             <img 
-              src="/image.png" 
+              src={`${process.env.PUBLIC_URL}/image.png`} 
               alt="Team Collaboration" 
               className="rounded-2xl shadow-2xl"
             />
