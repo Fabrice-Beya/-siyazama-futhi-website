@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/-siyazama-futhi-website/static/css/main.e8fe8b1e.css",
-    "main.js": "/-siyazama-futhi-website/static/js/main.f3e395dd.js",
+    "main.js": "/-siyazama-futhi-website/static/js/main.912b20b5.js",
     "static/js/453.243c51e8.chunk.js": "/-siyazama-futhi-website/static/js/453.243c51e8.chunk.js",
     "index.html": "/-siyazama-futhi-website/index.html",
     "main.e8fe8b1e.css.map": "/-siyazama-futhi-website/static/css/main.e8fe8b1e.css.map",
-    "main.f3e395dd.js.map": "/-siyazama-futhi-website/static/js/main.f3e395dd.js.map",
+    "main.912b20b5.js.map": "/-siyazama-futhi-website/static/js/main.912b20b5.js.map",
     "453.243c51e8.chunk.js.map": "/-siyazama-futhi-website/static/js/453.243c51e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8fe8b1e.css",
-    "static/js/main.f3e395dd.js"
+    "static/js/main.912b20b5.js"
   ]
 }
