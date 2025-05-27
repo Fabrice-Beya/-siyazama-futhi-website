@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+EMAILJS_SETUP.md
+HOSTINGER_EMAIL_SETUP.md
+.env

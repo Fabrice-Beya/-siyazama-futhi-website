@@ -182,7 +182,7 @@ const Home: React.FC = () => {
                 &gt; Proven Track Record
               </h3>
               <p className="text-gray-600 leading-relaxed">
-                With over 50 successful projects across South Africa, we understand the unique challenges facing local municipalities.
+                With a proven track record of successful projects across South Africa, we understand the unique challenges facing local municipalities.
               </p>
               <div className="mt-4 font-mono text-tech-cyan text-sm">
                 [SUCCESS_RATE: 99.9%]

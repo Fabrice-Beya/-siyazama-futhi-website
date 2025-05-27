@@ -127,7 +127,7 @@ const Services: React.FC = () => {
             </div>
             <h4 className="text-xl font-bold text-gray-900 mb-4">Proven Track Record</h4>
             <p className="text-gray-600">
-              With over 50 successful projects across South Africa, we understand the unique challenges facing local municipalities.
+              With a proven track record of successful projects across South Africa, we understand the unique challenges facing local municipalities.
             </p>
           </div>
 

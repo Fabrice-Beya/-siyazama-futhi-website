@@ -72,7 +72,7 @@ const About: React.FC = () => {
             {/* Right Content - Tech Image */}
             <div className="relative slide-in-right">
               <img 
-                src="/image.png"
+                src="https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
                 alt="Team Collaboration" 
                 className="rounded-2xl shadow-2xl glow-blue"
               />
