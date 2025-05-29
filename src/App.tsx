@@ -1,21 +1,26 @@
 import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import About from './components/About';
-import Services from './components/Services';
-import Contact from './components/Contact';
 import Footer from './components/Footer';
+import HomePage from './components/HomePage';
+import TermsOfServicePage from './pages/terms-of-service';
+import PrivacyPolicyPage from './pages/privacy-policy';
 
 function App() {
   return (
-    <div className="App">
-      <Navbar />
-      <Hero />
-      <About />
-      <Services />
-      <Contact />
-      <Footer />
-    </div>
+    <Router>
+      <div className="App">
+        <Navbar />
+        <main className="pt-16">
+          <Routes>
+            <Route path="/" element={<HomePage />} />
+            <Route path="/terms-of-service" element={<TermsOfServicePage />} />
+            <Route path="/privacy-policy" element={<PrivacyPolicyPage />} />
+          </Routes>
+        </main>
+        <Footer />
+      </div>
+    </Router>
   );
 }
 
