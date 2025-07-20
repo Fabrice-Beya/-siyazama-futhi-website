@@ -60,7 +60,6 @@ const Contact: React.FC = () => {
                   <div>
                     <h3 className="text-lg font-semibold text-gray-900 mb-2">Office Address</h3>
                     <p className="text-gray-600">
-                      123 Innovation Drive<br />
                       Durban, KwaZulu-Natal 4001<br />
                       South Africa
                     </p>

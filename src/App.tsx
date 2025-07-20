@@ -11,7 +11,7 @@ function App() {
     <Router>
       <div className="App">
         <Navbar />
-        <main className="pt-16">
+        <main>
           <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="/terms-of-service" element={<TermsOfServicePage />} />

@@ -9,7 +9,7 @@ const Hero: React.FC = () => {
   };
 
   return (
-    <section id="hero" className="relative bg-brand-gradient text-white overflow-hidden min-h-screen flex items-center">
+    <section id="hero" className="relative bg-brand-gradient text-white overflow-hidden min-h-screen flex items-center -mt-16 pt-16">
       {/* Background elements */}
       <div className="absolute inset-0">
         <div className="absolute top-20 left-10 w-20 h-20 bg-white rounded-full opacity-10 float-animation"></div>
